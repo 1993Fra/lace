@@ -1,0 +1,137 @@
+#nav{
+	border-bottom: 1px solid grey;
+}
+#nav li{
+	display: inline-block;
+	font-size: 20px;
+	padding: 20px 10px 20px 10px;
+	margin: 2px 0 0 30px;
+	text-align: center;
+	text-transform: uppercase;
+}
+#nav li a{
+	text-decoration-line: none;
+	color: grey;
+}
+#nav li:hover{
+	background-color: #b3b3cc;
+}
+
+#imm{
+	text-align: center;
+}
+
+#cos li{
+	color: white;
+	background-color: grey;
+	padding: 10px 20px 10px 20px;
+	border: 2px solid white;
+	width: 200px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+h3{
+	font-size: 30px;
+	width: 330px;
+	text-align: center;
+	margin-bottom: 0;
+	letter-spacing: 2px;
+}
+
+h5{
+	font-size: 30px;
+	width: 330px;
+	text-align: center;
+	margin-bottom: 0;
+	letter-spacing: 2px;
+}
+
+h4{
+	padding-left: 15px;
+}
+
+#fasi li{
+	list-style-type: none;
+	font-weight: bold;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 30px;
+	border-bottom: 2px solid grey; 
+	width: 400px;
+}
+
+#sedi{
+	color: white;
+	background-color: black;
+	font-size: 30px;
+	padding-bottom: 20px;
+}
+
+#sedi h6{
+	
+	font-size: 30px;
+	padding-top: 30px;
+	margin-left: 700px;
+	margin-right: all;
+	text-align: center;
+	margin-bottom: 0;
+
+}
+
+#sedi li{
+	
+	font-size: 30px;
+	list-style-type: none;
+	margin-left: 650px;
+	margin-right: all;
+	text-align: center;
+	margin-top: 15px;
+
+}
+
+#sedi p{
+	padding-right: 10px;
+	margin-left: 650px;
+	margin-right: all;
+	text-align: center;
+	font-size: 20px;
+}
+
+#sedi a{
+	margin-left: 950px;
+	margin-right: all;
+	
+	background-color: grey;
+	color: white;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 20px;
+	text-decoration-line: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
